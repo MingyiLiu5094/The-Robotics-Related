@@ -27,6 +27,3 @@ ax2.set_ylim([-2, 2])
 fig.legend()
 fig.savefig('sample.pdf')
 plt.show()
-
-
-
